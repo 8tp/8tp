@@ -65,43 +65,66 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=8tp&bg_color=09090b&color=d4d4d8&line=22d3ee&point=34d399&area=true&hide_border=true&title_color=22d3ee" alt="GitHub activity graph" />
 </p>
 
-## Featured Builds
+## Project Map
 
-<p align="center">
-  <a href="https://github.com/8tp/hudaim">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=8tp&repo=hudaim&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=d4d4d8&icon_color=34d399" alt="HudAim repo card" />
-  </a>
-  <a href="https://github.com/8tp/Coup">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=8tp&repo=Coup&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=d4d4d8&icon_color=34d399" alt="Coup repo card" />
-  </a>
-</p>
+### [HudAim](https://github.com/8tp/hudaim)
+Browser-based aim training platform with replays, leaderboards, and anti-cheat.
 
-<p align="center">
-  <a href="https://github.com/8tp/LiteStats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=8tp&repo=LiteStats&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=d4d4d8&icon_color=34d399" alt="LiteStats repo card" />
-  </a>
-  <a href="https://github.com/8tp/DTAK-UI-MAPS">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=8tp&repo=DTAK-UI-MAPS&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=d4d4d8&icon_color=34d399" alt="DTAK-UI-MAPS repo card" />
+<p>
+  <img src="https://img.shields.io/github/languages/top/8tp/hudaim?style=flat-square&color=22d3ee&labelColor=09090b" alt="HudAim top language" />
+  <img src="https://img.shields.io/github/last-commit/8tp/hudaim?style=flat-square&color=34d399&labelColor=09090b" alt="HudAim last commit" />
+  <img src="https://img.shields.io/github/repo-size/8tp/hudaim?style=flat-square&color=f59e0b&labelColor=09090b" alt="HudAim repo size" />
+  <a href="https://aim.chuds.dev/">
+    <img src="https://img.shields.io/website?down_message=offline&label=live&style=flat-square&up_message=online&url=https%3A%2F%2Faim.chuds.dev&color=22d3ee&labelColor=09090b" alt="HudAim live status" />
   </a>
 </p>
 
-<details>
-<summary>Full public repo map</summary>
+### [Coup](https://github.com/8tp/Coup)
+Real-time multiplayer bluffing card game with bots, room codes, and mobile-friendly play.
 
-- [hudaim](https://github.com/8tp/hudaim) - Browser-based aim training platform with replays, leaderboards, and anti-cheat.
-- [Coup](https://github.com/8tp/Coup) - Real-time multiplayer bluffing card game with no install and no accounts.
-- [LiteStats](https://github.com/8tp/LiteStats) - macOS menu bar monitoring app for real-time system stats.
-- [chuds.dev](https://github.com/8tp/chuds.dev) - Portfolio site and brand hub.
-- [tidewatcher](https://github.com/8tp/tidewatcher) - Rust terminal app for monitoring computer stats.
-
-</details>
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8tp/8tp/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/8tp/8tp/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/8tp/8tp/output/github-contribution-grid-snake.svg" />
-  </picture>
+<p>
+  <img src="https://img.shields.io/github/languages/top/8tp/Coup?style=flat-square&color=22d3ee&labelColor=09090b" alt="Coup top language" />
+  <img src="https://img.shields.io/github/last-commit/8tp/Coup?style=flat-square&color=34d399&labelColor=09090b" alt="Coup last commit" />
+  <img src="https://img.shields.io/github/repo-size/8tp/Coup?style=flat-square&color=f59e0b&labelColor=09090b" alt="Coup repo size" />
+  <a href="https://coup.chuds.dev">
+    <img src="https://img.shields.io/website?down_message=offline&label=live&style=flat-square&up_message=online&url=https%3A%2F%2Fcoup.chuds.dev&color=22d3ee&labelColor=09090b" alt="Coup live status" />
+  </a>
 </p>
+
+### [LiteStats](https://github.com/8tp/LiteStats)
+Lightweight macOS menu bar app for real-time CPU, RAM, storage, battery, and thermal monitoring.
+
+<p>
+  <img src="https://img.shields.io/github/languages/top/8tp/LiteStats?style=flat-square&color=22d3ee&labelColor=09090b" alt="LiteStats top language" />
+  <img src="https://img.shields.io/github/last-commit/8tp/LiteStats?style=flat-square&color=34d399&labelColor=09090b" alt="LiteStats last commit" />
+  <img src="https://img.shields.io/github/repo-size/8tp/LiteStats?style=flat-square&color=f59e0b&labelColor=09090b" alt="LiteStats repo size" />
+  <img src="https://img.shields.io/github/license/8tp/LiteStats?style=flat-square&color=a78bfa&labelColor=09090b" alt="LiteStats license" />
+</p>
+
+### [chuds.dev](https://github.com/8tp/chuds.dev)
+Portfolio site and launchpad for the rest of the work.
+
+<p>
+  <img src="https://img.shields.io/github/languages/top/8tp/chuds.dev?style=flat-square&color=22d3ee&labelColor=09090b" alt="chuds.dev top language" />
+  <img src="https://img.shields.io/github/last-commit/8tp/chuds.dev?style=flat-square&color=34d399&labelColor=09090b" alt="chuds.dev last commit" />
+  <img src="https://img.shields.io/github/repo-size/8tp/chuds.dev?style=flat-square&color=f59e0b&labelColor=09090b" alt="chuds.dev repo size" />
+  <a href="https://chuds.dev">
+    <img src="https://img.shields.io/website?down_message=offline&label=live&style=flat-square&up_message=online&url=https%3A%2F%2Fchuds.dev&color=22d3ee&labelColor=09090b" alt="chuds.dev live status" />
+  </a>
+</p>
+
+### [DTAK-UI-MAPS](https://github.com/8tp/DTAK-UI-MAPS)
+Decentralized TAK mapping work and supporting UI infrastructure.
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/8tp/DTAK-UI-MAPS?style=flat-square&color=34d399&labelColor=09090b" alt="DTAK-UI-MAPS last commit" />
+  <img src="https://img.shields.io/github/repo-size/8tp/DTAK-UI-MAPS?style=flat-square&color=f59e0b&labelColor=09090b" alt="DTAK-UI-MAPS repo size" />
+  <img src="https://img.shields.io/github/issues/8tp/DTAK-UI-MAPS?style=flat-square&color=22d3ee&labelColor=09090b" alt="DTAK-UI-MAPS open issues" />
+</p>
+
+## More Repos
+
+- [tidewatcher](https://github.com/8tp/tidewatcher) - Rust terminal app for monitoring system stats.
+- [react-tak](https://github.com/8tp/react-tak) - React Native TAK SDK fork.
+- [dtak-react-native-CoT](https://github.com/8tp/dtak-react-native-CoT) - React Native Cursor-on-Target library fork.
+- [starter-web](https://github.com/8tp/starter-web) - Earlier website starter template.
