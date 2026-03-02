@@ -116,6 +116,3 @@ Portfolio site and launchpad for the rest of the work.
 ## More Repos
 
 - [tidewatcher](https://github.com/8tp/tidewatcher) - Rust terminal app for monitoring system stats.
-- [react-tak](https://github.com/8tp/react-tak) - React Native TAK SDK fork.
-- [dtak-react-native-CoT](https://github.com/8tp/dtak-react-native-CoT) - React Native Cursor-on-Target library fork.
-- [starter-web](https://github.com/8tp/starter-web) - Earlier website starter template.
