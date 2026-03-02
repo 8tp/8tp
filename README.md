@@ -22,12 +22,6 @@
   <a href="https://github.com/8tp">
     <img src="https://img.shields.io/badge/GitHub-8tp-09090b?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=09090b&color=18181b" alt="GitHub 8tp" />
   </a>
-  <a href="https://chuds.dev">
-    <img src="https://img.shields.io/badge/Website-chuds.dev-09090b?style=for-the-badge&labelColor=09090b&color=22d3ee" alt="Website chuds.dev" />
-  </a>
-  <a href="https://aim.chuds.dev/">
-    <img src="https://img.shields.io/badge/Live-HudAim-09090b?style=for-the-badge&labelColor=09090b&color=34d399" alt="Live HudAim" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=8tp&style=for-the-badge&color=22d3ee&label=profile+views" alt="Profile views" />
 </p>
 
@@ -56,42 +50,67 @@
 ## Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=8tp&show_icons=true&include_all_commits=true&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=d4d4d8&icon_color=34d399&ring_color=22d3ee" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=8tp&theme=github_dark" alt="GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=8tp&hide_border=true&background=09090b&ring=22d3ee&fire=34d399&currStreakLabel=22d3ee&sideLabels=d4d4d8&currStreakNum=d4d4d8&sideNums=d4d4d8&dates=a1a1aa" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8tp&layout=compact&langs_count=8&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=d4d4d8" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8tp&theme=github_dark" alt="Top languages by repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=8tp&theme=github_dark" alt="Top languages by commit" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=8tp&bg_color=09090b&color=d4d4d8&line=22d3ee&point=34d399&area=true&hide_border=true&title_color=22d3ee" alt="GitHub activity graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8tp&theme=github_dark" alt="GitHub profile details" />
 </p>
 
 ## Project Map
 
 ### [HudAim](https://github.com/8tp/hudaim)
+<p>
+  <img src="https://img.shields.io/badge/React-09090b?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-09090b?style=flat-square&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-09090b?style=flat-square&logo=nodedotjs&logoColor=5fa04e" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-09090b?style=flat-square&logo=express&logoColor=ffffff" alt="Express" />
+  <img src="https://img.shields.io/badge/IndexedDB-09090b?style=flat-square&color=18181b" alt="IndexedDB" />
+</p>
+
 Browser-based aim training platform with replays, leaderboards, and anti-cheat.
 
-`Stack:` `React` `Tailwind` `Node/Express` `IndexedDB`
 `Live:` [aim.chuds.dev](https://aim.chuds.dev/)
 
 ### [Coup](https://github.com/8tp/Coup)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-09090b?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Socket.io-09090b?style=flat-square&logo=socketdotio&logoColor=ffffff" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-09090b?style=flat-square&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Zustand-09090b?style=flat-square&color=18181b" alt="Zustand" />
+</p>
+
 Real-time multiplayer bluffing card game with bots, room codes, and mobile-friendly play.
 
-`Stack:` `Next.js` `TypeScript` `Socket.io` `Zustand`
 `Live:` [coup.chuds.dev](https://coup.chuds.dev)
 
 ### [LiteStats](https://github.com/8tp/LiteStats)
+<p>
+  <img src="https://img.shields.io/badge/Swift-09090b?style=flat-square&logo=swift&logoColor=f05138" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-09090b?style=flat-square&color=18181b" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/IOKit-09090b?style=flat-square&color=18181b" alt="IOKit" />
+  <img src="https://img.shields.io/badge/macOS-09090b?style=flat-square&logo=apple&logoColor=ffffff" alt="macOS" />
+</p>
+
 Lightweight macOS menu bar app for real-time CPU, RAM, storage, battery, and thermal monitoring.
 
-`Stack:` `Swift` `SwiftUI` `IOKit`
-`Platform:` `macOS`
-
 ### [chuds.dev](https://github.com/8tp/chuds.dev)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-09090b?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-09090b?style=flat-square&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-09090b?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Open_Graph-09090b?style=flat-square&color=18181b" alt="Open Graph" />
+</p>
+
 Portfolio site and launchpad for the rest of the work.
 
-`Stack:` `HTML` `Tailwind` `Vanilla JS`
 `Live:` [chuds.dev](https://chuds.dev)
 
 ## More Repos
