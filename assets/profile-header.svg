@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" role="img" aria-labelledby="title desc">
+  <title id="title">Hunter / 8tp profile header</title>
+  <desc id="desc">Minimal profile banner for Hunter, also known as 8tp.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090b" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" />
+    </filter>
+  </defs>
+
+  <rect width="960" height="200" rx="28" fill="url(#bg)" />
+  <rect x="1" y="1" width="958" height="198" rx="27" fill="none" stroke="#27272a" />
+
+  <path d="M0 152C112 138 180 124 256 124C338 124 392 146 470 146C561 146 634 106 736 106C808 106 876 122 960 134" fill="none" stroke="url(#accent)" stroke-opacity="0.18" stroke-width="2" />
+  <path d="M0 166C112 152 180 138 256 138C338 138 392 160 470 160C561 160 634 120 736 120C808 120 876 136 960 148" fill="none" stroke="#22d3ee" stroke-opacity="0.08" stroke-width="1.5" />
+
+  <circle cx="786" cy="72" r="46" fill="#22d3ee" fill-opacity="0.08" filter="url(#soft-glow)" />
+  <circle cx="836" cy="118" r="58" fill="#34d399" fill-opacity="0.05" filter="url(#soft-glow)" />
+
+  <g opacity="0.65">
+    <rect x="708" y="48" width="176" height="104" rx="18" fill="#0b1220" stroke="#1f2937" />
+    <rect x="732" y="72" width="70" height="8" rx="4" fill="#22d3ee" fill-opacity="0.8" />
+    <rect x="732" y="92" width="124" height="8" rx="4" fill="#334155" />
+    <rect x="732" y="112" width="96" height="8" rx="4" fill="#334155" />
+    <rect x="732" y="132" width="56" height="8" rx="4" fill="#34d399" fill-opacity="0.75" />
+  </g>
+
+  <text x="72" y="68" fill="#71717a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="15" letter-spacing="4">CHUDS.DEV / 8TP</text>
+  <text x="72" y="120" fill="#fafafa" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="52" font-weight="700">Hunter / 8tp</text>
+  <text x="72" y="154" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="18">shipping web apps, multiplayer systems, and macOS tools</text>
+
+  <rect x="72" y="170" width="188" height="4" rx="2" fill="url(#accent)" />
+</svg>
