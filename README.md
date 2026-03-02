@@ -51,7 +51,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=8tp&theme=github_dark" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=8tp&hide_border=true&background=09090b&ring=22d3ee&fire=34d399&currStreakLabel=22d3ee&sideLabels=d4d4d8&currStreakNum=d4d4d8&sideNums=d4d4d8&dates=a1a1aa" alt="GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=8tp&theme=github_dark&utcOffset=-5" alt="GitHub productive time" />
 </p>
 
 <p align="center">
