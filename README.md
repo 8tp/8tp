@@ -19,11 +19,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/8tp?tab=followers">
-    <img src="https://img.shields.io/github/followers/8tp?label=followers&style=for-the-badge&color=22d3ee&labelColor=09090b" alt="GitHub followers" />
+  <a href="https://github.com/8tp">
+    <img src="https://img.shields.io/badge/GitHub-8tp-09090b?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=09090b&color=18181b" alt="GitHub 8tp" />
   </a>
-  <a href="https://github.com/8tp?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F8tp&query=%24.public_repos&label=public%20repos&style=for-the-badge&color=34d399&labelColor=09090b" alt="Public repos" />
+  <a href="https://chuds.dev">
+    <img src="https://img.shields.io/badge/Website-chuds.dev-09090b?style=for-the-badge&labelColor=09090b&color=22d3ee" alt="Website chuds.dev" />
+  </a>
+  <a href="https://aim.chuds.dev/">
+    <img src="https://img.shields.io/badge/Live-HudAim-09090b?style=for-the-badge&labelColor=09090b&color=34d399" alt="Live HudAim" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=8tp&style=for-the-badge&color=22d3ee&label=profile+views" alt="Profile views" />
 </p>
@@ -70,57 +73,26 @@
 ### [HudAim](https://github.com/8tp/hudaim)
 Browser-based aim training platform with replays, leaderboards, and anti-cheat.
 
-<p>
-  <img src="https://img.shields.io/github/languages/top/8tp/hudaim?style=flat-square&color=22d3ee&labelColor=09090b" alt="HudAim top language" />
-  <img src="https://img.shields.io/github/last-commit/8tp/hudaim?style=flat-square&color=34d399&labelColor=09090b" alt="HudAim last commit" />
-  <img src="https://img.shields.io/github/repo-size/8tp/hudaim?style=flat-square&color=f59e0b&labelColor=09090b" alt="HudAim repo size" />
-  <a href="https://aim.chuds.dev/">
-    <img src="https://img.shields.io/website?down_message=offline&label=live&style=flat-square&up_message=online&url=https%3A%2F%2Faim.chuds.dev&color=22d3ee&labelColor=09090b" alt="HudAim live status" />
-  </a>
-</p>
+`Stack:` `React` `Tailwind` `Node/Express` `IndexedDB`
+`Live:` [aim.chuds.dev](https://aim.chuds.dev/)
 
 ### [Coup](https://github.com/8tp/Coup)
 Real-time multiplayer bluffing card game with bots, room codes, and mobile-friendly play.
 
-<p>
-  <img src="https://img.shields.io/github/languages/top/8tp/Coup?style=flat-square&color=22d3ee&labelColor=09090b" alt="Coup top language" />
-  <img src="https://img.shields.io/github/last-commit/8tp/Coup?style=flat-square&color=34d399&labelColor=09090b" alt="Coup last commit" />
-  <img src="https://img.shields.io/github/repo-size/8tp/Coup?style=flat-square&color=f59e0b&labelColor=09090b" alt="Coup repo size" />
-  <a href="https://coup.chuds.dev">
-    <img src="https://img.shields.io/website?down_message=offline&label=live&style=flat-square&up_message=online&url=https%3A%2F%2Fcoup.chuds.dev&color=22d3ee&labelColor=09090b" alt="Coup live status" />
-  </a>
-</p>
+`Stack:` `Next.js` `TypeScript` `Socket.io` `Zustand`
+`Live:` [coup.chuds.dev](https://coup.chuds.dev)
 
 ### [LiteStats](https://github.com/8tp/LiteStats)
 Lightweight macOS menu bar app for real-time CPU, RAM, storage, battery, and thermal monitoring.
 
-<p>
-  <img src="https://img.shields.io/github/languages/top/8tp/LiteStats?style=flat-square&color=22d3ee&labelColor=09090b" alt="LiteStats top language" />
-  <img src="https://img.shields.io/github/last-commit/8tp/LiteStats?style=flat-square&color=34d399&labelColor=09090b" alt="LiteStats last commit" />
-  <img src="https://img.shields.io/github/repo-size/8tp/LiteStats?style=flat-square&color=f59e0b&labelColor=09090b" alt="LiteStats repo size" />
-  <img src="https://img.shields.io/github/license/8tp/LiteStats?style=flat-square&color=a78bfa&labelColor=09090b" alt="LiteStats license" />
-</p>
+`Stack:` `Swift` `SwiftUI` `IOKit`
+`Platform:` `macOS`
 
 ### [chuds.dev](https://github.com/8tp/chuds.dev)
 Portfolio site and launchpad for the rest of the work.
 
-<p>
-  <img src="https://img.shields.io/github/languages/top/8tp/chuds.dev?style=flat-square&color=22d3ee&labelColor=09090b" alt="chuds.dev top language" />
-  <img src="https://img.shields.io/github/last-commit/8tp/chuds.dev?style=flat-square&color=34d399&labelColor=09090b" alt="chuds.dev last commit" />
-  <img src="https://img.shields.io/github/repo-size/8tp/chuds.dev?style=flat-square&color=f59e0b&labelColor=09090b" alt="chuds.dev repo size" />
-  <a href="https://chuds.dev">
-    <img src="https://img.shields.io/website?down_message=offline&label=live&style=flat-square&up_message=online&url=https%3A%2F%2Fchuds.dev&color=22d3ee&labelColor=09090b" alt="chuds.dev live status" />
-  </a>
-</p>
-
-### [DTAK-UI-MAPS](https://github.com/8tp/DTAK-UI-MAPS)
-Decentralized TAK mapping work and supporting UI infrastructure.
-
-<p>
-  <img src="https://img.shields.io/github/last-commit/8tp/DTAK-UI-MAPS?style=flat-square&color=34d399&labelColor=09090b" alt="DTAK-UI-MAPS last commit" />
-  <img src="https://img.shields.io/github/repo-size/8tp/DTAK-UI-MAPS?style=flat-square&color=f59e0b&labelColor=09090b" alt="DTAK-UI-MAPS repo size" />
-  <img src="https://img.shields.io/github/issues/8tp/DTAK-UI-MAPS?style=flat-square&color=22d3ee&labelColor=09090b" alt="DTAK-UI-MAPS open issues" />
-</p>
+`Stack:` `HTML` `Tailwind` `Vanilla JS`
+`Live:` [chuds.dev](https://chuds.dev)
 
 ## More Repos
 
