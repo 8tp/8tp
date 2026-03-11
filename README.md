@@ -58,6 +58,7 @@
 |:-:|:--------|:------------|:------|
 | 🎚️ | [**AppMixer**](https://github.com/8tp/AppMixer) | Per-app volume control from the menu bar — HAL virtual audio driver | Swift · AppKit · CoreAudio |
 | 📋 | [**Recopy**](https://github.com/8tp/Recopy) | Native menu bar clipboard manager — zero dependencies, fully offline | Swift · SwiftUI · SwiftData |
+| 📸 | [**ScreenCap**](https://github.com/8tp/ScreenCap) | Native screenshot & annotation app — area/window/scroll capture, screen recording, OCR, color picker | Swift · SwiftUI · AppKit · ScreenCaptureKit |
 | 📊 | [**LiteStats**](https://github.com/8tp/LiteStats) | Lightweight menu bar system monitor — CPU, RAM, storage, battery, thermals | Swift · SwiftUI · IOKit |
 
 ## 🌐 Portfolio
