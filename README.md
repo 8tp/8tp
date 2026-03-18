@@ -42,6 +42,7 @@
 | 🎯 | [**HudAim**](https://github.com/8tp/hudaim) | Browser-based aim trainer — 6 game modes, replays, leaderboards, anti-cheat | React · Tailwind · Node · Express · IndexedDB | [aim.chuds.dev](https://aim.chuds.dev/) |
 | ⚡ | [**TypeDuel**](https://github.com/8tp/typeduel) | Real-time multiplayer typing combat — MonkeyType meets a fighting game | React · Vite · TypeScript · WebSockets · Zustand | [duel.chuds.dev](https://duel.chuds.dev/) |
 | 🃏 | [**Coup**](https://github.com/8tp/Coup) | Real-time multiplayer bluffing card game with bots and room codes | Next.js · TypeScript · Socket.io · Tailwind · Zustand | [coup.chuds.dev](https://coup.chuds.dev) |
+| 🐜 | [**AntMaze**](https://github.com/8tp/AntMaze) | Ant colony maze simulation — watch ants explore, forage, and find optimal paths | TypeScript · Vite · HTML5 Canvas · Web Audio API | [ant.chuds.dev](https://ant.chuds.dev) |
 | 🧠 | [**iq-test**](https://github.com/8tp/iq-test) | Open-source cognitive assessment — 35 timed questions across 4 domains | HTML · CSS · JavaScript | [take the test](https://8tp.github.io/iq-test/) |
 
 ## 🖥️ CLI / TUI Tools
