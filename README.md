@@ -1,270 +1,320 @@
 <p align="center">
-  <img src="./assets/banner.webp" alt="Hunter / 8tp — shipping web apps, multiplayer systems, and macOS tools" width="100%" />
+  <img src="./assets/banner.webp" alt="chuds.dev mag - premium software, engineered from the basement" width="100%" />
 </p>
 
 <p align="center">
-  <samp>$&nbsp;whoami&nbsp;&nbsp;—&nbsp;&nbsp;full-stack web · real-time multiplayer · CLI &amp; TUI tools · macOS utilities</samp>
+  <samp><strong>CHUDS.DEV MAG</strong> / VOL. 2026 / ISSUE 01 / GITHUB PROFILE EDITION</samp>
 </p>
 
 <p align="center">
   <a href="https://github.com/8tp">
-    <img src="https://img.shields.io/badge/GitHub-8tp-c0caf5?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26&color=bb9af7" alt="GitHub 8tp" />
+    <img src="https://img.shields.io/badge/GitHub-8tp-090909?style=for-the-badge&logo=github&logoColor=090909&labelColor=fffdf7" alt="GitHub 8tp" />
   </a>
   <a href="https://chuds.dev">
-    <img src="https://img.shields.io/website?down_message=offline&label=chuds.dev&style=for-the-badge&up_message=online&url=https%3A%2F%2Fchuds.dev&color=9ece6a&labelColor=1a1b26" alt="chuds.dev status" />
+    <img src="https://img.shields.io/website?down_message=offline&label=chuds.dev&style=for-the-badge&up_message=online&url=https%3A%2F%2Fchuds.dev&color=090909&labelColor=fffdf7" alt="chuds.dev status" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=8tp&style=for-the-badge&color=7dcfff&label=views&labelColor=1a1b26" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=8tp&style=for-the-badge&color=090909&label=readers&labelColor=fffdf7" alt="Profile readers" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=7dcfff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7dcfff" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=nextdotjs&logoColor=c0caf5" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind-1a1b26?style=flat-square&logo=tailwindcss&logoColor=7dcfff" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=9ece6a" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Socket.io-1a1b26?style=flat-square&logo=socketdotio&logoColor=c0caf5" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/Rust-1a1b26?style=flat-square&logo=rust&logoColor=ff9e64" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-1a1b26?style=flat-square&logo=go&logoColor=7dcfff" alt="Go" />
-  <img src="https://img.shields.io/badge/Swift-1a1b26?style=flat-square&logo=swift&logoColor=ff9e64" alt="Swift" />
-  <img src="https://img.shields.io/badge/macOS-1a1b26?style=flat-square&logo=apple&logoColor=c0caf5" alt="macOS" />
-</p>
-
-<br>
+<table>
+<tr>
+<td width="178" align="center" valign="top">
+  <img src="https://github.com/8tp.png" width="154" alt="Hunter / 8tp avatar" />
+  <br>
+  <sub><samp>// cover star / @8tp</samp></sub>
+</td>
+<td valign="top">
+  <h1>Hunter / 8tp</h1>
+  <p><samp><strong>premium software, engineered from the basement</strong></samp></p>
+  <p>
+    Indie developer shipping browser games, real-time multiplayer systems,
+    terminal interfaces, and native macOS tools. Current focus: playable web
+    projects, offline-first desktop utilities, and terminal apps that make
+    dense data easier to read.
+  </p>
+  <p>
+    <samp>code the tool. ship the game. keep it sharp.</samp>
+  </p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <samp>
-    ──────────────────────────────────────────────────────────────────────
+    <a href="#p-001--editors-letter">p.001 editor's letter</a>
+    /
+    <a href="#p-002--live-games-on-the-cover">p.002 live games</a>
+    /
+    <a href="#p-003--terminal-department">p.003 terminal dept</a>
+    /
+    <a href="#p-004--macos-back-matter">p.004 macOS</a>
+    /
+    <a href="#p-005--back-cover">p.005 back cover</a>
   </samp>
 </p>
 
-> <samp>$ cat ~/about/README.md</samp>
+<p align="center">
+  <samp>----------------------------------------------------------------------</samp>
+</p>
+
+<a id="p-001--editors-letter"></a>
+
+## <samp>p.001 // editor's letter</samp>
+
+> <samp>// opening monologue</samp>
 >
-> Indie builder behind [chuds.dev](https://chuds.dev) — premium software, engineered from the basement. I ship browser games, full-stack web apps, terminal tools, and macOS utilities, with a bias toward stuff that actually works.
-
-<br>
-
-## <samp>[01] ~/projects/web $ ls -la</samp>
-
-<table>
-<tr>
-<td width="280" align="center">
-  <a href="https://ant.chuds.dev"><img src="./assets/projects/antmaze.webp" width="260" alt="AntMaze" /></a>
-</td>
-<td valign="top">
-  <h3>
-    <a href="https://github.com/8tp/AntMaze">AntMaze</a>
-    &nbsp;·&nbsp;
-    <a href="https://ant.chuds.dev">ant.chuds.dev</a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/LIVE-e0af68?style=flat-square&labelColor=1a1b26" alt="live" />
-  </h3>
-  Perpetual-motion maze game where the ant never stops moving. Procedurally generated 7×7 → 21×21 mazes, LBP-inspired Web Audio soundtrack, ~10 KB gzipped.
-  <br><br>
-  <code>TypeScript</code> · <code>Vite</code> · <code>Canvas 2D</code> · <code>Web Audio</code>
-</td>
-</tr>
-<tr>
-<td width="280" align="center">
-  <a href="https://aim.chuds.dev"><img src="./assets/projects/hudaim.webp" width="260" alt="HudAim" /></a>
-</td>
-<td valign="top">
-  <h3>
-    <a href="https://github.com/8tp/hudaim">HudAim</a>
-    &nbsp;·&nbsp;
-    <a href="https://aim.chuds.dev">aim.chuds.dev</a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/LIVE-7dcfff?style=flat-square&labelColor=1a1b26" alt="live" />
-  </h3>
-  Browser-based aim trainer with 6 game modes, 60 FPS replay system, LAN leaderboards and HMAC-SHA256 anti-cheat.
-  <br><br>
-  <code>React 19</code> · <code>Tailwind</code> · <code>Node/Express</code> · <code>IndexedDB</code>
-</td>
-</tr>
-<tr>
-<td width="280" align="center">
-  <a href="https://coup.chuds.dev"><img src="./assets/projects/coup.webp" width="260" alt="Coup" /></a>
-</td>
-<td valign="top">
-  <h3>
-    <a href="https://github.com/8tp/Coup">Coup</a>
-    &nbsp;·&nbsp;
-    <a href="https://coup.chuds.dev">coup.chuds.dev</a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/LIVE-9ece6a?style=flat-square&labelColor=1a1b26" alt="live" />
-  </h3>
-  Real-time multiplayer bluffing card game. Bots, room codes, mobile-friendly. No install, no accounts.
-  <br><br>
-  <code>Next.js</code> · <code>TypeScript</code> · <code>Socket.io</code> · <code>Zustand</code>
-</td>
-</tr>
-<tr>
-<td width="280" align="center">
-  <a href="https://duel.chuds.dev"><img src="./assets/projects/typeduel.webp" width="260" alt="TypeDuel" /></a>
-</td>
-<td valign="top">
-  <h3>
-    <a href="https://github.com/8tp/typeduel">TypeDuel</a>
-    &nbsp;·&nbsp;
-    <a href="https://duel.chuds.dev">duel.chuds.dev</a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/LIVE-f7768e?style=flat-square&labelColor=1a1b26" alt="live" />
-  </h3>
-  Real-time multiplayer typing combat. Type fast, deal damage, use abilities, defeat your opponent.
-  <br><br>
-  <code>TypeScript</code> · <code>React</code> · <code>WebSocket</code> · <code>Zustand</code>
-</td>
-</tr>
-</table>
-
-<sub><samp>$ also in this dir/ &nbsp;·&nbsp; <a href="https://8tp.github.io/iq-test/">iq-test</a> — open-source 35-question cognitive assessment <code>HTML · CSS · JS</code></samp></sub>
-
-<br>
-
-## <samp>[02] ~/projects/cli $ ls -la</samp>
-
-<table>
-<tr>
-<td width="280" align="center">
-  <a href="https://github.com/8tp/ghgarden"><img src="./assets/projects/ghgarden.webp" width="260" alt="ghgarden" /></a>
-</td>
-<td valign="top">
-  <h3>
-    <a href="https://github.com/8tp/ghgarden">ghgarden</a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/TUI-73daca?style=flat-square&labelColor=1a1b26" alt="tui" />
-  </h3>
-  GitHub contribution visualizer in the terminal — heatmaps, streak stats, language breakdowns, and 6 themes.
-  <br><br>
-  <code>Rust</code> · <code>Ratatui</code>
-</td>
-</tr>
-<tr>
-<td width="280" align="center">
-  <a href="https://github.com/8tp/netmap"><img src="./assets/projects/netmap.webp" width="260" alt="netmap" /></a>
-</td>
-<td valign="top">
-  <h3>
-    <a href="https://github.com/8tp/netmap">netmap</a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/TUI-7aa2f7?style=flat-square&labelColor=1a1b26" alt="tui" />
-  </h3>
-  Visual network topology mapper and scanner — discover devices, scan ports, measure latency.
-  <br><br>
-  <code>Go</code> · <code>Bubble Tea</code>
-</td>
-</tr>
-<tr>
-<td width="280" align="center">
-  <a href="https://github.com/8tp/tidewatcher"><img src="./assets/projects/tidewatcher.webp" width="260" alt="TideWatcher" /></a>
-</td>
-<td valign="top">
-  <h3>
-    <a href="https://github.com/8tp/tidewatcher">TideWatcher</a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/TUI-ff9e64?style=flat-square&labelColor=1a1b26" alt="tui" />
-  </h3>
-  System monitor TUI with tide-inspired live charts, process views, and theme-aware ASCII scenes.
-  <br><br>
-  <code>Rust</code> · <code>Ratatui</code>
-</td>
-</tr>
-</table>
-
-<br>
-
-## <samp>[03] ~/projects/macos $ ls -la</samp>
-
-<table>
-<tr>
-<td width="280" align="center">
-  <a href="https://github.com/8tp/ScreenCap"><img src="./assets/projects/screencap.webp" width="260" alt="ScreenCap" /></a>
-</td>
-<td valign="top">
-  <h3>
-    <a href="https://github.com/8tp/ScreenCap">ScreenCap</a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/macOS-9d7cd8?style=flat-square&labelColor=1a1b26" alt="macos" />
-  </h3>
-  Native macOS screenshot &amp; annotation app — area / window / scrolling capture, screen recording, OCR, color picker, GIF export.
-  <br><br>
-  <code>Swift</code> · <code>SwiftUI</code> · <code>AppKit</code> · <code>ScreenCaptureKit</code>
-</td>
-</tr>
-<tr>
-<td width="280" align="center">
-  <a href="https://github.com/8tp/Recopy"><img src="./assets/projects/recopy.webp" width="260" alt="Recopy" /></a>
-</td>
-<td valign="top">
-  <h3>
-    <a href="https://github.com/8tp/Recopy">Recopy</a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/macOS-e0af68?style=flat-square&labelColor=1a1b26" alt="macos" />
-  </h3>
-  Native menu bar clipboard manager — zero dependencies, fully offline, built with SwiftData.
-  <br><br>
-  <code>Swift</code> · <code>SwiftUI</code> · <code>SwiftData</code>
-</td>
-</tr>
-<tr>
-<td width="280" align="center">
-  <a href="https://github.com/8tp/LiteStats"><img src="./assets/projects/litestats.webp" width="260" alt="LiteStats" /></a>
-</td>
-<td valign="top">
-  <h3>
-    <a href="https://github.com/8tp/LiteStats">LiteStats</a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/macOS-bb9af7?style=flat-square&labelColor=1a1b26" alt="macos" />
-  </h3>
-  Lightweight menu bar system monitor — CPU, RAM, storage, battery, thermals.
-  <br><br>
-  <code>Swift</code> · <code>SwiftUI</code> · <code>IOKit</code>
-</td>
-</tr>
-</table>
-
-<sub><samp>$ also in this dir/ &nbsp;·&nbsp; <a href="https://github.com/8tp/AppMixer">AppMixer</a> — per-app volume from the menu bar via a HAL virtual audio driver <code>Swift · AppKit · CoreAudio</code></samp></sub>
-
-<br>
-
-## <samp>[04] ~/portfolio $ cd .</samp>
+> Hey, I'm Hunter. I build small, sharp software: games that boot in the
+> browser, tools that live in the menu bar, and terminal apps that make dense
+> data feel readable. This profile is the project index: live games first,
+> terminal utilities next, native macOS apps after that, and chuds.dev as the
+> launchpad for the whole set.
 
 <p>
-  <a href="https://chuds.dev"><strong>chuds.dev</strong></a> — portfolio site and launchpad for everything above. Built with Astro + Svelte, themed in Tokyo Night to match the rig.
-  &nbsp;
-  <code>Astro</code> · <code>Svelte</code> · <code>Tailwind</code>
-  &nbsp;
-  <a href="https://github.com/8tp/chuds.dev"><img src="https://img.shields.io/badge/source-bb9af7?style=flat-square&labelColor=1a1b26" alt="source" /></a>
-  <a href="https://chuds.dev"><img src="https://img.shields.io/badge/live-9ece6a?style=flat-square&labelColor=1a1b26" alt="live" /></a>
-</p>
-
-<br>
-
-<p align="center">
   <samp>
-    ──────────────────────────────────────────────────────────────────────
+    stack index /
+    TypeScript / React / Next.js / Astro / Svelte / Tailwind /
+    Node.js / Socket.io / Rust / Ratatui / Go / Bubble Tea /
+    Swift / SwiftUI / AppKit / Canvas 2D / Web Audio
   </samp>
 </p>
 
-<br>
+<p align="center">
+  <samp>----------------------------------------------------------------------</samp>
+</p>
 
-## <samp>[05] ~/stats $ git log --stat</samp>
+<a id="p-002--live-games-on-the-cover"></a>
+
+## <samp>p.002 // live games on the cover</samp>
+
+<table>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://ant.chuds.dev"><img src="./assets/projects/antmaze.webp" width="268" alt="AntMaze colored thumbnail" /></a>
+  <br>
+  <sub><samp>cover feature / live</samp></sub>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/AntMaze">AntMaze</a> / <a href="https://ant.chuds.dev">ant.chuds.dev</a></h3>
+  <p>
+    Perpetual-motion maze game where the ant never stops moving. Procedural
+    7x7 to 21x21 mazes, LBP-inspired Web Audio soundtrack, and a tiny shipped
+    payload.
+  </p>
+  <p><samp>[TypeScript] [Vite] [Canvas 2D] [Web Audio]</samp></p>
+</td>
+</tr>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://aim.chuds.dev"><img src="./assets/projects/hudaim.webp" width="268" alt="HudAim colored thumbnail" /></a>
+  <br>
+  <sub><samp>training spread / live</samp></sub>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/hudaim">HudAim</a> / <a href="https://aim.chuds.dev">aim.chuds.dev</a></h3>
+  <p>
+    Browser aim trainer with six modes, 60 FPS replay capture, LAN
+    leaderboards, and HMAC-SHA256 anti-cheat.
+  </p>
+  <p><samp>[React 19] [Tailwind] [Node/Express] [IndexedDB]</samp></p>
+</td>
+</tr>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://coup.chuds.dev"><img src="./assets/projects/coup.webp" width="268" alt="Coup colored thumbnail" /></a>
+  <br>
+  <sub><samp>table game / live</samp></sub>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/Coup">Coup</a> / <a href="https://coup.chuds.dev">coup.chuds.dev</a></h3>
+  <p>
+    Real-time multiplayer bluffing card game with bots, room codes,
+    mobile-friendly play, and no account wall.
+  </p>
+  <p><samp>[Next.js] [TypeScript] [Socket.io] [Zustand]</samp></p>
+</td>
+</tr>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://duel.chuds.dev"><img src="./assets/projects/typeduel.webp" width="268" alt="TypeDuel colored thumbnail" /></a>
+  <br>
+  <sub><samp>versus page / live</samp></sub>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/typeduel">TypeDuel</a> / <a href="https://duel.chuds.dev">duel.chuds.dev</a></h3>
+  <p>
+    Real-time multiplayer typing game. Type fast, deal damage, trigger
+    abilities, and win the duel in the browser.
+  </p>
+  <p><samp>[TypeScript] [React] [WebSocket] [Zustand]</samp></p>
+</td>
+</tr>
+</table>
+
+<sub><samp>// bonus page: <a href="https://8tp.github.io/iq-test/">iq-test</a> / open-source 35-question cognitive assessment / [HTML] [CSS] [JS]</samp></sub>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=8tp&theme=tokyonight" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=8tp&theme=tokyonight&utcOffset=-5" alt="GitHub productive time" />
+  <samp>----------------------------------------------------------------------</samp>
+</p>
+
+<a id="p-003--terminal-department"></a>
+
+## <samp>p.003 // terminal department</samp>
+
+<table>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://github.com/8tp/ghgarden"><img src="./assets/projects/ghgarden.webp" width="268" alt="ghgarden colored thumbnail" /></a>
+  <br>
+  <sub><samp>repo heatmap / tui</samp></sub>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/ghgarden">ghgarden</a></h3>
+  <p>
+    GitHub contribution visualizer for the terminal: heatmaps, streak stats,
+    language breakdowns, and six themes.
+  </p>
+  <p><samp>[Rust] [Ratatui]</samp></p>
+</td>
+</tr>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://github.com/8tp/netmap"><img src="./assets/projects/netmap.webp" width="268" alt="netmap colored thumbnail" /></a>
+  <br>
+  <sub><samp>network map / tui</samp></sub>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/netmap">netmap</a></h3>
+  <p>
+    Visual network topology mapper and scanner. Discover devices, scan ports,
+    and measure latency from a terminal UI.
+  </p>
+  <p><samp>[Go] [Bubble Tea]</samp></p>
+</td>
+</tr>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://github.com/8tp/tidewatcher"><img src="./assets/projects/tidewatcher.webp" width="268" alt="TideWatcher colored thumbnail" /></a>
+  <br>
+  <sub><samp>system monitor / tui</samp></sub>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/tidewatcher">TideWatcher</a></h3>
+  <p>
+    System monitor TUI with tide-inspired live charts, process views, and
+    theme-aware ASCII scenes.
+  </p>
+  <p><samp>[Rust] [Ratatui]</samp></p>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <samp>----------------------------------------------------------------------</samp>
+</p>
+
+<a id="p-004--macos-back-matter"></a>
+
+## <samp>p.004 // macOS back matter</samp>
+
+<table>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://github.com/8tp/ScreenCap"><img src="./assets/projects/screencap.webp" width="268" alt="ScreenCap colored thumbnail" /></a>
+  <br>
+  <sub><samp>desktop tool / native</samp></sub>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/ScreenCap">ScreenCap</a></h3>
+  <p>
+    Native screenshot and annotation app for macOS: area, window, scrolling
+    capture, screen recording, OCR, color picker, and GIF export.
+  </p>
+  <p><samp>[Swift] [SwiftUI] [AppKit] [ScreenCaptureKit]</samp></p>
+</td>
+</tr>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://github.com/8tp/Recopy"><img src="./assets/projects/recopy.webp" width="268" alt="Recopy colored thumbnail" /></a>
+  <br>
+  <sub><samp>clipboard page / native</samp></sub>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/Recopy">Recopy</a></h3>
+  <p>
+    Native menu bar clipboard manager. Zero dependencies, fully offline, and
+    built with SwiftData.
+  </p>
+  <p><samp>[Swift] [SwiftUI] [SwiftData]</samp></p>
+</td>
+</tr>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://github.com/8tp/LiteStats"><img src="./assets/projects/litestats.webp" width="268" alt="LiteStats colored thumbnail" /></a>
+  <br>
+  <sub><samp>status strip / native</samp></sub>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/LiteStats">LiteStats</a></h3>
+  <p>
+    Lightweight menu bar system monitor for CPU, RAM, storage, battery, and
+    thermals.
+  </p>
+  <p><samp>[Swift] [SwiftUI] [IOKit]</samp></p>
+</td>
+</tr>
+</table>
+
+<sub><samp>// extra page: <a href="https://github.com/8tp/AppMixer">AppMixer</a> / per-app volume from the menu bar via a HAL virtual audio driver / [Swift] [AppKit] [CoreAudio]</samp></sub>
+
+<p align="center">
+  <samp>----------------------------------------------------------------------</samp>
+</p>
+
+<a id="p-005--back-cover"></a>
+
+## <samp>p.005 // back cover</samp>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+  <h3>chuds.dev</h3>
+  <p>
+    Portfolio site and launchpad for the projects above. It collects the
+    playable apps, repo writeups, project thumbnails, and build notes in one
+    place.
+  </p>
+  <p>
+    <a href="https://chuds.dev">read the issue</a>
+    /
+    <a href="https://github.com/8tp/chuds.dev">view source</a>
+  </p>
+  <p><samp>[Astro] [Svelte] [Tailwind]</samp></p>
+</td>
+<td valign="top" width="50%">
+  <h3>current focus</h3>
+  <p>
+    Realtime games, native macOS utilities, terminal interfaces, and project
+    pages that explain what shipped, how it works, and where to try it.
+  </p>
+  <p><samp>$ shipping web apps, multiplayer systems, and macOS tools</samp></p>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=8tp&theme=github" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=8tp&theme=github&utcOffset=-5" alt="GitHub productive time" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8tp&theme=tokyonight" alt="Top languages by repo" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=8tp&theme=tokyonight" alt="Top languages by commit" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8tp&theme=github" alt="Top languages by repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=8tp&theme=github" alt="Top languages by commit" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8tp&theme=tokyonight" alt="GitHub profile details" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8tp&theme=github" alt="GitHub profile details" />
 </p>
 
-<br>
-
 <p align="center">
-  <samp>$&nbsp;echo&nbsp;"©&nbsp;2026&nbsp;chuds.dev&nbsp;·&nbsp;tokyonight&nbsp;·&nbsp;engineered&nbsp;from&nbsp;the&nbsp;basement"</samp>
+  <samp>back cover / chuds.dev / project index / engineered from the basement</samp>
 </p>
