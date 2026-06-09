@@ -65,16 +65,18 @@
 >
 > Hey, I'm Hunter. I build small, sharp software: games that boot in the
 > browser, tools that live in the menu bar, and terminal apps that make dense
-> data feel readable. This profile is the project index: live games first,
-> terminal utilities next, native macOS apps after that, and chuds.dev as the
+> data feel readable. This issue's cover star is
+> <a href="https://instagib.win">Instagib Arena</a> — a one-shot railgun FPS
+> with real netcode, free in the browser. Live games first, terminal
+> utilities next, native macOS apps after that, and chuds.dev as the
 > launchpad for the whole set.
 
 <p>
   <samp>
     stack index /
     TypeScript / React / Next.js / Astro / Svelte / Tailwind /
-    Node.js / Socket.io / Rust / Ratatui / Go / Bubble Tea /
-    Swift / SwiftUI / AppKit / Canvas 2D / Web Audio
+    Three.js / Node.js / WebSocket / Socket.io / Rust / Ratatui /
+    Go / Bubble Tea / Swift / SwiftUI / AppKit / Canvas 2D / Web Audio
   </samp>
 </p>
 
@@ -89,9 +91,26 @@
 <table>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://ant.chuds.dev"><img src="./assets/projects/antmaze.webp" width="268" alt="AntMaze colored thumbnail" /></a>
+  <a href="https://instagib.win"><img src="./assets/projects/instagib-arena.webp" width="268" alt="Instagib Arena colored thumbnail" /></a>
   <br>
   <sub><samp>cover feature / live</samp></sub>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/instagib-arena">Instagib Arena</a> / <a href="https://instagib.win">instagib.win</a></h3>
+  <p>
+    Quake-style instagib FPS in the browser. One-shot railgun, strafe-jump
+    movement, and server-authoritative 64 Hz binary netcode with lag
+    compensation — plus ranked duels, weekly replay challenges, and offline
+    bots. Free, no download.
+  </p>
+  <p><samp>[Three.js] [React 19] [Node/ws] [SQLite]</samp></p>
+</td>
+</tr>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://ant.chuds.dev"><img src="./assets/projects/antmaze.webp" width="268" alt="AntMaze colored thumbnail" /></a>
+  <br>
+  <sub><samp>maze page / live</samp></sub>
 </td>
 <td valign="top">
   <h3><a href="https://github.com/8tp/AntMaze">AntMaze</a> / <a href="https://ant.chuds.dev">ant.chuds.dev</a></h3>
@@ -293,8 +312,9 @@
 <td valign="top" width="50%">
   <h3>current focus</h3>
   <p>
-    Realtime games, native macOS utilities, terminal interfaces, and project
-    pages that explain what shipped, how it works, and where to try it.
+    Realtime browser games with serious netcode, native macOS utilities,
+    terminal interfaces, and project pages that explain what shipped, how it
+    works, and where to try it.
   </p>
   <p><samp>$ shipping web apps, multiplayer systems, and macOS tools</samp></p>
 </td>
