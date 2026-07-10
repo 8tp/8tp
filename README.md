@@ -305,7 +305,7 @@
   <p>
     <a href="https://8tp.dev">read the issue</a>
     /
-    <a href="https://github.com/8tp/chuds.dev">view source</a>
+    <a href="https://github.com/8tp/8tp.dev">view source</a>
   </p>
   <p><samp>[Astro] [Svelte] [Tailwind]</samp></p>
 </td>
