@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="./assets/banner.webp" alt="chuds.dev mag - premium software, engineered from the basement" width="100%" />
+  <img src="./assets/banner.webp" alt="8tp.dev mag - premium software, engineered from the basement" width="100%" />
 </p>
 
 <p align="center">
-  <samp><strong>CHUDS.DEV MAG</strong> / VOL. 2026 / ISSUE 01 / GITHUB PROFILE EDITION</samp>
+  <samp><strong>8TP.DEV MAG</strong> / VOL. 2026 / ISSUE 01 / GITHUB PROFILE EDITION</samp>
 </p>
 
 <p align="center">
   <a href="https://github.com/8tp">
     <img src="https://img.shields.io/badge/GitHub-8tp-090909?style=for-the-badge&logo=github&logoColor=090909&labelColor=fffdf7" alt="GitHub 8tp" />
   </a>
-  <a href="https://chuds.dev">
-    <img src="https://img.shields.io/website?down_message=offline&label=chuds.dev&style=for-the-badge&up_message=online&url=https%3A%2F%2Fchuds.dev&color=090909&labelColor=fffdf7" alt="chuds.dev status" />
+  <a href="https://8tp.dev">
+    <img src="https://img.shields.io/website?down_message=offline&label=8tp.dev&style=for-the-badge&up_message=online&url=https%3A%2F%2F8tp.dev&color=090909&labelColor=fffdf7" alt="8tp.dev status" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=8tp&style=for-the-badge&color=090909&label=readers&labelColor=fffdf7" alt="Profile readers" />
 </p>
@@ -68,7 +68,7 @@
 > data feel readable. This issue's cover star is
 > <a href="https://instagib.win">Instagib Arena</a> — a one-shot railgun FPS
 > with real netcode, free in the browser. Live games first, terminal
-> utilities next, native macOS apps after that, and chuds.dev as the
+> utilities next, native macOS apps after that, and 8tp.dev as the
 > launchpad for the whole set.
 
 <p>
@@ -108,12 +108,12 @@
 </tr>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://ant.chuds.dev"><img src="./assets/projects/antmaze.webp" width="268" alt="AntMaze colored thumbnail" /></a>
+  <a href="https://ant.8tp.dev"><img src="./assets/projects/antmaze.webp" width="268" alt="AntMaze colored thumbnail" /></a>
   <br>
   <sub><samp>maze page / live</samp></sub>
 </td>
 <td valign="top">
-  <h3><a href="https://github.com/8tp/AntMaze">AntMaze</a> / <a href="https://ant.chuds.dev">ant.chuds.dev</a></h3>
+  <h3><a href="https://github.com/8tp/AntMaze">AntMaze</a> / <a href="https://ant.8tp.dev">ant.8tp.dev</a></h3>
   <p>
     Perpetual-motion maze game where the ant never stops moving. Procedural
     7x7 to 21x21 mazes, LBP-inspired Web Audio soundtrack, and a tiny shipped
@@ -124,12 +124,12 @@
 </tr>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://aim.chuds.dev"><img src="./assets/projects/hudaim.webp" width="268" alt="HudAim colored thumbnail" /></a>
+  <a href="https://aim.8tp.dev"><img src="./assets/projects/hudaim.webp" width="268" alt="HudAim colored thumbnail" /></a>
   <br>
   <sub><samp>training spread / live</samp></sub>
 </td>
 <td valign="top">
-  <h3><a href="https://github.com/8tp/hudaim">HudAim</a> / <a href="https://aim.chuds.dev">aim.chuds.dev</a></h3>
+  <h3><a href="https://github.com/8tp/hudaim">HudAim</a> / <a href="https://aim.8tp.dev">aim.8tp.dev</a></h3>
   <p>
     Browser aim trainer with six modes, 60 FPS replay capture, LAN
     leaderboards, and HMAC-SHA256 anti-cheat.
@@ -139,12 +139,12 @@
 </tr>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://coup.chuds.dev"><img src="./assets/projects/coup.webp" width="268" alt="Coup colored thumbnail" /></a>
+  <a href="https://coup.8tp.dev"><img src="./assets/projects/coup.webp" width="268" alt="Coup colored thumbnail" /></a>
   <br>
   <sub><samp>table game / live</samp></sub>
 </td>
 <td valign="top">
-  <h3><a href="https://github.com/8tp/Coup">Coup</a> / <a href="https://coup.chuds.dev">coup.chuds.dev</a></h3>
+  <h3><a href="https://github.com/8tp/Coup">Coup</a> / <a href="https://coup.8tp.dev">coup.8tp.dev</a></h3>
   <p>
     Real-time multiplayer bluffing card game with bots, room codes,
     mobile-friendly play, and no account wall.
@@ -154,12 +154,12 @@
 </tr>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://duel.chuds.dev"><img src="./assets/projects/typeduel.webp" width="268" alt="TypeDuel colored thumbnail" /></a>
+  <a href="https://duel.8tp.dev"><img src="./assets/projects/typeduel.webp" width="268" alt="TypeDuel colored thumbnail" /></a>
   <br>
   <sub><samp>versus page / live</samp></sub>
 </td>
 <td valign="top">
-  <h3><a href="https://github.com/8tp/typeduel">TypeDuel</a> / <a href="https://duel.chuds.dev">duel.chuds.dev</a></h3>
+  <h3><a href="https://github.com/8tp/typeduel">TypeDuel</a> / <a href="https://duel.8tp.dev">duel.8tp.dev</a></h3>
   <p>
     Real-time multiplayer typing game. Type fast, deal damage, trigger
     abilities, and win the duel in the browser.
@@ -296,14 +296,14 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-  <h3>chuds.dev</h3>
+  <h3>8tp.dev</h3>
   <p>
     Portfolio site and launchpad for the projects above. It collects the
     playable apps, repo writeups, project thumbnails, and build notes in one
     place.
   </p>
   <p>
-    <a href="https://chuds.dev">read the issue</a>
+    <a href="https://8tp.dev">read the issue</a>
     /
     <a href="https://github.com/8tp/chuds.dev">view source</a>
   </p>
@@ -336,5 +336,5 @@
 </p>
 
 <p align="center">
-  <samp>back cover / chuds.dev / project index / engineered from the basement</samp>
+  <samp>back cover / 8tp.dev / project index / engineered from the basement</samp>
 </p>
