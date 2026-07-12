@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.webp" alt="8tp.dev mag - premium software, engineered from the basement" width="100%" />
-</p>
-
-<p align="center">
-  <samp><strong>8TP.DEV MAG</strong> / VOL. 2026 / ISSUE 01 / GITHUB PROFILE EDITION</samp>
+  <img src="./assets/banner.webp" alt="8tp.dev - games, self-hosted tools, and native apps" width="100%" />
 </p>
 
 <p align="center">
@@ -13,7 +9,7 @@
   <a href="https://8tp.dev">
     <img src="https://img.shields.io/website?down_message=offline&label=8tp.dev&style=for-the-badge&up_message=online&url=https%3A%2F%2F8tp.dev&color=090909&labelColor=fffdf7" alt="8tp.dev status" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=8tp&style=for-the-badge&color=090909&label=readers&labelColor=fffdf7" alt="Profile readers" />
+  <img src="https://komarev.com/ghpvc/?username=8tp&style=for-the-badge&color=090909&label=views&labelColor=fffdf7" alt="Profile views" />
 </p>
 
 <table>
@@ -21,19 +17,21 @@
 <td width="178" align="center" valign="top">
   <img src="https://github.com/8tp.png" width="154" alt="Hunter / 8tp avatar" />
   <br>
-  <sub><samp>// cover star / @8tp</samp></sub>
+  <sub><samp>@8tp</samp></sub>
 </td>
 <td valign="top">
   <h1>Hunter / 8tp</h1>
-  <p><samp><strong>premium software, engineered from the basement</strong></samp></p>
+  <p><samp><strong>games, self-hosted tools, and native apps</strong></samp></p>
   <p>
-    Indie developer shipping browser games, real-time multiplayer systems,
-    terminal interfaces, and native macOS tools. Current focus: playable web
-    projects, offline-first desktop utilities, and terminal apps that make
-    dense data easier to read.
+    I build small, fast software solo: real-time multiplayer browser games,
+    self-hosted server tools, terminal apps, and native macOS utilities. Most
+    of it started as something I wanted to exist, then shipped once it earned it.
   </p>
   <p>
-    <samp>code the tool. ship the game. keep it sharp.</samp>
+    <samp>
+      TypeScript / React / Next.js / Three.js / Node / WebSocket /
+      Go / Rust / Ratatui / Swift / SwiftUI / AppKit / Docker
+    </samp>
   </p>
 </td>
 </tr>
@@ -41,97 +39,100 @@
 
 <p align="center">
   <samp>
-    <a href="#p-001--editors-letter">p.001 editor's letter</a>
+    <a href="#featured">featured</a>
     /
-    <a href="#p-002--live-games-on-the-cover">p.002 live games</a>
+    <a href="#browser-games">browser games</a>
     /
-    <a href="#p-003--terminal-department">p.003 terminal dept</a>
+    <a href="#terminal-apps">terminal apps</a>
     /
-    <a href="#p-004--macos-back-matter">p.004 macOS</a>
-    /
-    <a href="#p-005--back-cover">p.005 back cover</a>
+    <a href="#macos-apps">macOS apps</a>
   </samp>
 </p>
 
-<p align="center">
-  <samp>----------------------------------------------------------------------</samp>
-</p>
+---
 
-<a id="p-001--editors-letter"></a>
+<a id="featured"></a>
 
-## <samp>p.001 // editor's letter</samp>
-
-> <samp>// opening monologue</samp>
->
-> Hey, I'm Hunter. I build small, sharp software: games that boot in the
-> browser, tools that live in the menu bar, and terminal apps that make dense
-> data feel readable. This issue's cover star is
-> <a href="https://instagib.win">Instagib Arena</a> — a one-shot railgun FPS
-> with real netcode, free in the browser. Live games first, terminal
-> utilities next, native macOS apps after that, and 8tp.dev as the
-> launchpad for the whole set.
-
-<p>
-  <samp>
-    stack index /
-    TypeScript / React / Next.js / Astro / Svelte / Tailwind /
-    Three.js / Node.js / WebSocket / Socket.io / Rust / Ratatui /
-    Go / Bubble Tea / Swift / SwiftUI / AppKit / Canvas 2D / Web Audio
-  </samp>
-</p>
-
-<p align="center">
-  <samp>----------------------------------------------------------------------</samp>
-</p>
-
-<a id="p-002--live-games-on-the-cover"></a>
-
-## <samp>p.002 // live games on the cover</samp>
+## <samp>Featured</samp>
 
 <table>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://instagib.win"><img src="./assets/projects/instagib-arena.webp" width="268" alt="Instagib Arena colored thumbnail" /></a>
-  <br>
-  <sub><samp>cover feature / live</samp></sub>
+  <a href="https://palhelm.com"><img src="./assets/projects/palhelm.webp" width="268" alt="Palhelm thumbnail" /></a>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/palhelm">Palhelm</a> / <a href="https://palhelm.com">palhelm.com</a></h3>
+  <p>
+    Self-hosted web admin panel for Palworld dedicated servers. One Docker
+    image with no external database. It talks to the server three ways: the
+    official REST API, RCON, and the world save file, which it parses directly
+    in pure Go. You get a live dashboard, player and Pal data, a world map, an
+    RCON console, and scheduled backups with dry-run restores.
+  </p>
+  <p><samp>[Go] [Svelte] [Docker] [RCON]</samp></p>
+</td>
+</tr>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://github.com/8tp/palhelm-bot"><img src="./assets/projects/palhelm-bot.webp" width="268" alt="Palhelm Bot thumbnail" /></a>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/8tp/palhelm-bot">Palhelm Bot</a> / <a href="https://docs.palhelm.com">docs.palhelm.com</a></h3>
+  <p>
+    Discord companion for Palhelm. It posts live server events into a channel
+    and answers more than 30 slash commands for players, guilds, Pal ownership,
+    breeding, and records, with rendered world-map and Pal images. Reads run
+    through the panel's read-only integration API, which redacts platform IDs,
+    live positions, and ban state so replies are safe in a public channel.
+  </p>
+  <p><samp>[TypeScript] [discord.js] [Node.js]</samp></p>
+</td>
+</tr>
+<tr>
+<td width="290" align="center" valign="top">
+  <a href="https://instagib.win"><img src="./assets/projects/instagib-arena.webp" width="268" alt="Instagib Arena thumbnail" /></a>
 </td>
 <td valign="top">
   <h3><a href="https://github.com/8tp/instagib-arena">Instagib Arena</a> / <a href="https://instagib.win">instagib.win</a></h3>
   <p>
     Quake-style instagib FPS in the browser. One-shot railgun, strafe-jump
     movement, and server-authoritative 64 Hz binary netcode with lag
-    compensation — plus ranked duels, weekly replay challenges, and offline
-    bots. Free, no download.
+    compensation. Ranked duels, weekly replay challenges, and offline bots.
+    Free, no download.
   </p>
   <p><samp>[Three.js] [React 19] [Node/ws] [SQLite]</samp></p>
 </td>
 </tr>
+</table>
+
+---
+
+<a id="browser-games"></a>
+
+## <samp>Browser games</samp>
+
+<table>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://ant.8tp.dev"><img src="./assets/projects/antmaze.webp" width="268" alt="AntMaze colored thumbnail" /></a>
-  <br>
-  <sub><samp>maze page / live</samp></sub>
+  <a href="https://coup.8tp.dev"><img src="./assets/projects/coup.webp" width="268" alt="Coup thumbnail" /></a>
 </td>
 <td valign="top">
-  <h3><a href="https://github.com/8tp/AntMaze">AntMaze</a> / <a href="https://ant.8tp.dev">ant.8tp.dev</a></h3>
+  <h3><a href="https://github.com/8tp/Coup">Coup</a> / <a href="https://coup.8tp.dev">coup.8tp.dev</a></h3>
   <p>
-    Perpetual-motion maze game where the ant never stops moving. Procedural
-    7x7 to 21x21 mazes, LBP-inspired Web Audio soundtrack, and a tiny shipped
-    payload.
+    Real-time multiplayer bluffing card game with bots, room codes, and
+    mobile-friendly play. No install, no accounts.
   </p>
-  <p><samp>[TypeScript] [Vite] [Canvas 2D] [Web Audio]</samp></p>
+  <p><samp>[Next.js] [TypeScript] [Socket.io] [Zustand]</samp></p>
 </td>
 </tr>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://aim.8tp.dev"><img src="./assets/projects/hudaim.webp" width="268" alt="HudAim colored thumbnail" /></a>
-  <br>
-  <sub><samp>training spread / live</samp></sub>
+  <a href="https://aim.8tp.dev"><img src="./assets/projects/hudaim.webp" width="268" alt="HudAim thumbnail" /></a>
 </td>
 <td valign="top">
   <h3><a href="https://github.com/8tp/hudaim">HudAim</a> / <a href="https://aim.8tp.dev">aim.8tp.dev</a></h3>
   <p>
-    Browser aim trainer with six modes, 60 FPS replay capture, LAN
+    Browser aim trainer with six game modes, 60 FPS replay capture, LAN
     leaderboards, and HMAC-SHA256 anti-cheat.
   </p>
   <p><samp>[React 19] [Tailwind] [Node/Express] [IndexedDB]</samp></p>
@@ -139,29 +140,26 @@
 </tr>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://coup.8tp.dev"><img src="./assets/projects/coup.webp" width="268" alt="Coup colored thumbnail" /></a>
-  <br>
-  <sub><samp>table game / live</samp></sub>
+  <a href="https://ant.8tp.dev"><img src="./assets/projects/antmaze.webp" width="268" alt="AntMaze thumbnail" /></a>
 </td>
 <td valign="top">
-  <h3><a href="https://github.com/8tp/Coup">Coup</a> / <a href="https://coup.8tp.dev">coup.8tp.dev</a></h3>
+  <h3><a href="https://github.com/8tp/AntMaze">AntMaze</a> / <a href="https://ant.8tp.dev">ant.8tp.dev</a></h3>
   <p>
-    Real-time multiplayer bluffing card game with bots, room codes,
-    mobile-friendly play, and no account wall.
+    Perpetual-motion maze game where the ant never stops moving. Procedural
+    7x7 to 21x21 mazes, an LBP-inspired Web Audio soundtrack, and a 10 KB
+    gzipped payload.
   </p>
-  <p><samp>[Next.js] [TypeScript] [Socket.io] [Zustand]</samp></p>
+  <p><samp>[TypeScript] [Vite] [Canvas 2D] [Web Audio]</samp></p>
 </td>
 </tr>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://duel.8tp.dev"><img src="./assets/projects/typeduel.webp" width="268" alt="TypeDuel colored thumbnail" /></a>
-  <br>
-  <sub><samp>versus page / live</samp></sub>
+  <a href="https://duel.8tp.dev"><img src="./assets/projects/typeduel.webp" width="268" alt="TypeDuel thumbnail" /></a>
 </td>
 <td valign="top">
   <h3><a href="https://github.com/8tp/typeduel">TypeDuel</a> / <a href="https://duel.8tp.dev">duel.8tp.dev</a></h3>
   <p>
-    Real-time multiplayer typing game. Type fast, deal damage, trigger
+    Real-time multiplayer typing combat. Type fast, deal damage, trigger
     abilities, and win the duel in the browser.
   </p>
   <p><samp>[TypeScript] [React] [WebSocket] [Zustand]</samp></p>
@@ -169,37 +167,31 @@
 </tr>
 </table>
 
-<sub><samp>// bonus page: <a href="https://8tp.github.io/iq-test/">iq-test</a> / open-source 35-question cognitive assessment / [HTML] [CSS] [JS]</samp></sub>
+<sub><samp>Also: <a href="https://8tp.github.io/iq-test/">iq-test</a>, an open-source 35-question cognitive assessment. [HTML] [CSS] [JS]</samp></sub>
 
-<p align="center">
-  <samp>----------------------------------------------------------------------</samp>
-</p>
+---
 
-<a id="p-003--terminal-department"></a>
+<a id="terminal-apps"></a>
 
-## <samp>p.003 // terminal department</samp>
+## <samp>Terminal apps</samp>
 
 <table>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://github.com/8tp/ghgarden"><img src="./assets/projects/ghgarden.webp" width="268" alt="ghgarden colored thumbnail" /></a>
-  <br>
-  <sub><samp>repo heatmap / tui</samp></sub>
+  <a href="https://github.com/8tp/ghgarden"><img src="./assets/projects/ghgarden.webp" width="268" alt="ghgarden thumbnail" /></a>
 </td>
 <td valign="top">
   <h3><a href="https://github.com/8tp/ghgarden">ghgarden</a></h3>
   <p>
-    GitHub contribution visualizer for the terminal: heatmaps, streak stats,
-    language breakdowns, and six themes.
+    GitHub contribution visualizer for the terminal, with heatmaps, streak
+    stats, language breakdowns, and six themes.
   </p>
   <p><samp>[Rust] [Ratatui]</samp></p>
 </td>
 </tr>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://github.com/8tp/netmap"><img src="./assets/projects/netmap.webp" width="268" alt="netmap colored thumbnail" /></a>
-  <br>
-  <sub><samp>network map / tui</samp></sub>
+  <a href="https://github.com/8tp/netmap"><img src="./assets/projects/netmap.webp" width="268" alt="netmap thumbnail" /></a>
 </td>
 <td valign="top">
   <h3><a href="https://github.com/8tp/netmap">netmap</a></h3>
@@ -212,9 +204,7 @@
 </tr>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://github.com/8tp/tidewatcher"><img src="./assets/projects/tidewatcher.webp" width="268" alt="TideWatcher colored thumbnail" /></a>
-  <br>
-  <sub><samp>system monitor / tui</samp></sub>
+  <a href="https://github.com/8tp/tidewatcher"><img src="./assets/projects/tidewatcher.webp" width="268" alt="TideWatcher thumbnail" /></a>
 </td>
 <td valign="top">
   <h3><a href="https://github.com/8tp/tidewatcher">TideWatcher</a></h3>
@@ -227,25 +217,21 @@
 </tr>
 </table>
 
-<p align="center">
-  <samp>----------------------------------------------------------------------</samp>
-</p>
+---
 
-<a id="p-004--macos-back-matter"></a>
+<a id="macos-apps"></a>
 
-## <samp>p.004 // macOS back matter</samp>
+## <samp>macOS apps</samp>
 
 <table>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://github.com/8tp/ScreenCap"><img src="./assets/projects/screencap.webp" width="268" alt="ScreenCap colored thumbnail" /></a>
-  <br>
-  <sub><samp>desktop tool / native</samp></sub>
+  <a href="https://github.com/8tp/ScreenCap"><img src="./assets/projects/screencap.webp" width="268" alt="ScreenCap thumbnail" /></a>
 </td>
 <td valign="top">
   <h3><a href="https://github.com/8tp/ScreenCap">ScreenCap</a></h3>
   <p>
-    Native screenshot and annotation app for macOS: area, window, scrolling
+    Native screenshot and annotation app for macOS. Area, window, and scrolling
     capture, screen recording, OCR, color picker, and GIF export.
   </p>
   <p><samp>[Swift] [SwiftUI] [AppKit] [ScreenCaptureKit]</samp></p>
@@ -253,24 +239,20 @@
 </tr>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://github.com/8tp/Recopy"><img src="./assets/projects/recopy.webp" width="268" alt="Recopy colored thumbnail" /></a>
-  <br>
-  <sub><samp>clipboard page / native</samp></sub>
+  <a href="https://github.com/8tp/Recopy"><img src="./assets/projects/recopy.webp" width="268" alt="Recopy thumbnail" /></a>
 </td>
 <td valign="top">
   <h3><a href="https://github.com/8tp/Recopy">Recopy</a></h3>
   <p>
-    Native menu bar clipboard manager. Zero dependencies, fully offline, and
-    built with SwiftData.
+    Native menu bar clipboard manager. Zero dependencies, fully offline, built
+    with SwiftData.
   </p>
   <p><samp>[Swift] [SwiftUI] [SwiftData]</samp></p>
 </td>
 </tr>
 <tr>
 <td width="290" align="center" valign="top">
-  <a href="https://github.com/8tp/LiteStats"><img src="./assets/projects/litestats.webp" width="268" alt="LiteStats colored thumbnail" /></a>
-  <br>
-  <sub><samp>status strip / native</samp></sub>
+  <a href="https://github.com/8tp/LiteStats"><img src="./assets/projects/litestats.webp" width="268" alt="LiteStats thumbnail" /></a>
 </td>
 <td valign="top">
   <h3><a href="https://github.com/8tp/LiteStats">LiteStats</a></h3>
@@ -283,58 +265,41 @@
 </tr>
 </table>
 
-<sub><samp>// extra page: <a href="https://github.com/8tp/AppMixer">AppMixer</a> / per-app volume from the menu bar via a HAL virtual audio driver / [Swift] [AppKit] [CoreAudio]</samp></sub>
+<sub><samp>Also: <a href="https://github.com/8tp/AppMixer">AppMixer</a>, per-app volume from the menu bar via a HAL virtual audio driver. [Swift] [AppKit] [CoreAudio]</samp></sub>
 
-<p align="center">
-  <samp>----------------------------------------------------------------------</samp>
-</p>
-
-<a id="p-005--back-cover"></a>
-
-## <samp>p.005 // back cover</samp>
+---
 
 <table>
 <tr>
 <td valign="top" width="50%">
   <h3>8tp.dev</h3>
   <p>
-    Portfolio site and launchpad for the projects above. It collects the
-    playable apps, repo writeups, project thumbnails, and build notes in one
-    place.
+    Portfolio site for the projects above. It collects the playable apps, repo
+    links, thumbnails, and build notes in one place.
   </p>
   <p>
-    <a href="https://8tp.dev">read the issue</a>
+    <a href="https://8tp.dev">8tp.dev</a>
     /
-    <a href="https://github.com/8tp/8tp.dev">view source</a>
+    <a href="https://github.com/8tp/8tp.dev">source</a>
   </p>
   <p><samp>[Astro] [Svelte] [Tailwind]</samp></p>
 </td>
 <td valign="top" width="50%">
-  <h3>current focus</h3>
+  <h3>Current focus</h3>
   <p>
-    Realtime browser games with serious netcode, native macOS utilities,
-    terminal interfaces, and project pages that explain what shipped, how it
-    works, and where to try it.
+    Browser games with server-authoritative netcode, self-hosted server tools,
+    and native macOS and terminal utilities. Each project page says what
+    shipped, how it works, and where to try it.
   </p>
-  <p><samp>$ shipping web apps, multiplayer systems, and macOS tools</samp></p>
 </td>
 </tr>
 </table>
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=8tp&theme=github" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=8tp&theme=github&utcOffset=-5" alt="GitHub productive time" />
-</p>
-
-<p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8tp&theme=github" alt="Top languages by repo" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=8tp&theme=github" alt="Top languages by commit" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8tp&theme=github" alt="GitHub profile details" />
-</p>
-
-<p align="center">
-  <samp>back cover / 8tp.dev / project index / engineered from the basement</samp>
+  <samp>github.com/8tp</samp>
 </p>
